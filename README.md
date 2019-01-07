@@ -21,9 +21,9 @@
 |    Cours                                                       | Titre du cours                               |  Commentaires           |
 |:--------------------------------------------------------------:|:---------------------------------------------|:------------------------| 
 | [INF1051](https://github.com/CollegeBoreal/INF1051-202-19H-02) | Programmation internet                       |                         |
-| [INF1053](https://github.com/CollegeBoreal/INF1053-201-19H-02) | Programmation de serveur                     |                         |
+| [INF1053](https://github.com/CollegeBoreal/INF1053-202-19H-02) | Programmation de serveur                     |                         |
 |  INF1055  | Administration de système                    |                         |
-| [INF1069](https://github.com/CollegeBoreal/INF1069-201-19H-02) | Design de bases de données                   |                         |
+| [INF1069](https://github.com/CollegeBoreal/INF1069-202-19H-02) | Design de bases de données                   |                         |
 
 
 
